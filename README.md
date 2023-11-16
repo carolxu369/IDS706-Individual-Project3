@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a complete data pipeline in Databricks, focusing on the analysis of music data. The pipeline ingests, transforms, and analyzes song data to derive insightful metrics about music trends, artist productivity, and song characteristics. 
+This project implements a complete data pipeline in Databricks, focusing on the analysis of music data. The pipeline ingests, transforms, and analyzes song data to derive insightful metrics about music trends, artist productivity, and song characteristics. This is the link to my [video](https://drive.google.com/file/d/1muQcpvCcObQArMcY2Cp0TQYP9VBskLIq/view?usp=sharing).
 
 ## Dependencies
 
@@ -59,7 +59,6 @@ Effective data transformation is crucial for preparing the data for analysis. Th
    TRIM(artist_name) AS artist_name
    ```
 2. **Handling Negative Values**: Negative values in fields like `duration` are set to NULL, as they don't make logical sense in the context of song data.
-3. **Partitioning Data**: The prepared data is partitioned by `year` for efficient storage and query performance in Delta Lake.
 
 ### 3. Data Analysis (`Analyze songs data.sql`)
 
