@@ -82,7 +82,7 @@ Based on the analysis, the following recommendations are proposed for the manage
 ![4](pic/4.png)
 
 5. **Visualization of artist releases per year**: Artist Retrospectives for Established Musicians: For artists with consistent high-volume releases over a long period, consider creating special retrospectives or collections. This can include artist-focused playlists, special edition releases, or in-depth artist profiles. These retrospectives can attract long-time fans as well as new listeners who might be interested in exploring an artist's extensive catalog.  
-![5](pic/5.png)
+![5](pic/4.png)
 
 ## Conclusion
 
